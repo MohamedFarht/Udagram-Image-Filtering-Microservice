@@ -1,9 +1,9 @@
 # Udagram Image Filtering Microservice
 
-###Endpoint on Elastic Beanstalk
+### Endpoint on Elastic Beanstalk
 try this: http://udagram-image-filtering-microservice-dev.eu-central-1.elasticbeanstalk.com/
 
-###Test it with 
+### Test it with 
 http://udagram-image-filtering-microservice-dev.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg
 
 
